@@ -59,6 +59,7 @@ A usuarios con el rol de cliente:
 Segunda etapa:
 -	Agregar, actualizar o dar de baja un pedido.
 
+Repositorio de este proyecto: https://github.com/MartinQuijano/laravel-esenciales
 
 ## Información del Servicio Web
 
@@ -72,9 +73,12 @@ Primera etapa:
 Segunda etapa:
 -	Acceder a la información de los pedidos.
 
+Repositorio de este proyecto: https://github.com/MartinQuijano/servicio-web-esenciales
 
 ## Visualización y Acceso a la Información
 
 La aplicación obtenida con el proyecto Javascript – React permitirá ver los productos disponibles en la tienda y proveerá menús desplegables los cuales permitirán filtrar los productos de acuerdo a las categorías. Además, contará con un buscador de productos por tipo o marca.
 
 Se mostrará información sobre los productos más vendidos. También se podrá visualizar para cada categoría o tipo, los precios en un orden particular.
+
+Repositorio de este proyecto: https://github.com/MartinQuijano/react-esenciales
